@@ -9,6 +9,8 @@ O projeto consiste em um sistema de detecção e reconhecimento de faces, utiliz
 ## Tecnologias Utilizadas
 - [Google Colab](https://colab.research.google.com)
 - [Python](https://www.python.org)
+- [Teachable Machine](https://teachablemachine.withgoogle.com)
+- [Tensorflow](https://www.tensorflow.org/?hl=pt-br)
 
 ## Descrição do Desafio
 O objetivo principal deste projeto é trabalhar com as bibliotecas e frameworks estudados e analisados em nossas aulas. Neste sentido, a proposta padrão envolve um sistema de detecção e reconhecimento de faces, utilizando o framework TensorFlow em conjuntos com as bibliotecas que o projetista julgue necessárias, de forma ilimitada.  
